@@ -1,0 +1,42 @@
+.nav {
+    background-color: orange;
+}
+
+.home {
+	background-color: lightblue;
+}
+
+.windows {
+	color: #ff0000;
+
+}
+
+.linux {
+	color: #dd8800;
+	font-style: italic;
+}
+
+.unix {
+	color: #5913af;
+}
+
+.link {
+	background-color: #ffff00;
+	color: blue;
+}
+
+.btn {
+	height:20px;
+	width:150px;
+}
+
+.hobby {
+	background-color: #ffff00;
+	color: blue;
+}
+
+.top {
+	background-color: grey;
+	color: white;
+	font-size: 15;
+}
